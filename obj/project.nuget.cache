@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOLq1wMplTE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robin\\source\\repos\\Covadis-BlazorApp\\Covadis-BlazorApp\\Covadis-BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
